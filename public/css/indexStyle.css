@@ -1,0 +1,25 @@
+.ten.wide.column{
+    width:800px;
+    margin:0 auto;
+
+}
+
+.heading{
+    text-align: center;
+    padding-top:40px;
+}
+
+.sub-heading{
+    text-align: center;
+    padding: 40px;
+}
+
+.list{
+    padding-left: 300px;
+}
+
+.button{
+    position: relative;
+    left: 300px;
+    padding-top: 40px;
+}
